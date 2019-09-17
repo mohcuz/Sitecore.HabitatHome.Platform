@@ -288,6 +288,18 @@ patch:
         patched: '2019-09-17T04:59:05.112Z'
     - inquirer > lodash:
         patched: '2019-09-17T04:59:05.112Z'
+    - gulp-prompt > inquirer > lodash:
+        patched: '2019-09-17T05:00:40.152Z'
+    - snyk > @snyk/dep-graph > lodash:
+        patched: '2019-09-17T05:00:40.152Z'
+    - snyk > snyk-nodejs-lockfile-parser > graphlib > lodash:
+        patched: '2019-09-17T05:00:40.152Z'
+    - snyk > snyk-go-plugin > graphlib > lodash:
+        patched: '2019-09-17T05:00:40.152Z'
+    - snyk > @snyk/dep-graph > graphlib > lodash:
+        patched: '2019-09-17T05:00:40.152Z'
+    - snyk > snyk-nuget-plugin > dotnet-deps-parser > lodash:
+        patched: '2019-09-17T05:00:40.152Z'
   'npm:minimatch:20160620':
     - gulp-sass-bulk-import > glob > minimatch:
         patched: '2019-09-17T04:59:05.112Z'
