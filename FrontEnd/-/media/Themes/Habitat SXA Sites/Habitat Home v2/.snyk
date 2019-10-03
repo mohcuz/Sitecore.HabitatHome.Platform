@@ -313,3 +313,16 @@ patch:
         patched: '2019-09-17T04:59:05.112Z'
     - gulp > vinyl-fs > glob-stream > minimatch:
         patched: '2019-09-17T04:59:05.112Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - urllib > proxy-agent > https-proxy-agent:
+        patched: '2019-10-03T23:48:34.358Z'
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-03T23:48:34.358Z'
+    - urllib > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-03T23:48:34.358Z'
+    - gulp-upload > urllib > proxy-agent > https-proxy-agent:
+        patched: '2019-10-03T23:48:34.358Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-03T23:48:34.358Z'
+    - gulp-upload > urllib > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-03T23:48:34.358Z'
